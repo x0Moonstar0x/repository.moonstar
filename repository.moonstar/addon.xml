@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.moonstar" name="Moonstar" version="0.0.1" provider-name="Moonstar">
+	<extension point="xbmc.addon.repository" name="Moonstar">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/0xMoonstarx0/repository.moonstar/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/0xMoonstarx0/repository.moonstar/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/0xMoonstarx0/repository.moonstar/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Turkish IPTV</summary>
+		<description lang="en">Turkish IPTV</description>
+		<genre>livetv</genre>
+	</extension>
+</addon>
